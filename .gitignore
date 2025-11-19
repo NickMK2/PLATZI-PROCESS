@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales y carpetas de dependencias
+venv/
+env/
+# Ruta específica de tu entorno virtual de scraping DENTRO de la carpeta Platzi
+Python/Practica/Random/scraping/scraping_uno/
+
+# Ignorar archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos del sistema
+.DS_Store
