@@ -1,0 +1,20 @@
+2025-03-01 13:22:26,304 | WARNING | Intento de inicio con mercado cerrado: Mercado cerrado (fin de semana)
+2025-03-01 13:22:26,394 | INFO | Simulación detenida
+2025-03-01 13:22:39,607 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-03-01 13:22:40,623 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-03-01 13:22:41,628 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-03-01 13:22:42,638 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-03-01 13:22:43,645 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-03-01 13:22:44,652 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-03-01 13:22:45,660 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-03-01 13:23:04,824 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $124.58 | ADX: 27.06 | DI+: 17.51 | DI-: 61.34 | Estado: Tendencia bajista fuerte
+2025-03-01 13:23:30,160 | INFO | Simulación detenida
+2025-03-01 13:24:27,334 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-03-01 13:24:28,344 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-03-01 13:24:29,347 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-03-01 13:24:30,351 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-03-01 13:24:31,359 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-03-01 13:24:32,364 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-03-01 13:24:33,373 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-03-01 13:24:34,378 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $44.59 | ADX: 89.97 | DI+: 3.18 | DI-: 85.86 | Estado: Tendencia bajista fuerte
+2025-03-01 13:26:12,491 | INFO | Simulación detenida

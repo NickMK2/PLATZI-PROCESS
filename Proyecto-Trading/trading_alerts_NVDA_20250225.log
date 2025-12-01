@@ -1,0 +1,47 @@
+2025-02-25 09:28:05,291 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-02-25 09:28:06,301 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-02-25 09:28:07,303 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-02-25 09:28:08,309 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-02-25 09:28:09,322 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-02-25 09:28:10,325 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-02-25 09:28:11,341 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-02-25 09:28:12,361 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $39.95 | ADX: 68.30 | DI+: 9.26 | DI-: 81.15 | Estado: Tendencia bajista fuerte
+2025-02-25 09:29:10,472 | INFO | Simulación detenida
+2025-02-25 09:30:28,593 | INFO | Simulación detenida
+2025-02-25 09:31:06,398 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-02-25 09:31:07,412 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-02-25 09:31:08,416 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-02-25 09:31:09,422 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-02-25 09:31:10,427 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-02-25 09:31:11,429 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-02-25 09:31:12,440 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-02-25 09:31:23,591 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $112.87 | ADX: 27.06 | DI+: 17.32 | DI-: 66.12 | Estado: Tendencia bajista fuerte
+2025-02-25 09:31:54,969 | INFO | ALERTA DE BUY | Símbolo: NVDA | Precio: $66.92 | ADX: 53.05 | DI+: 48.51 | DI-: 42.86 | Estado: Tendencia alcista fuerte
+2025-02-25 09:32:05,111 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $73.98 | ADX: 39.82 | DI+: 45.09 | DI-: 46.44 | Estado: Tendencia bajista fuerte
+2025-02-25 09:32:09,117 | INFO | ALERTA DE BUY | Símbolo: NVDA | Precio: $78.57 | ADX: 30.58 | DI+: 48.37 | DI-: 41.89 | Estado: Tendencia alcista fuerte
+2025-02-25 09:35:14,601 | INFO | Simulación detenida
+2025-02-25 09:43:22,646 | INFO | Stream iniciado
+2025-02-25 09:43:22,853 | INFO | Simulación detenida
+2025-02-25 09:43:45,656 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-02-25 09:43:46,656 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-02-25 09:43:47,663 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-02-25 09:43:48,675 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-02-25 09:43:49,680 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-02-25 09:43:50,690 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-02-25 09:43:51,696 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-02-25 09:43:52,711 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $86.04 | ADX: 63.11 | DI+: 33.20 | DI-: 57.68 | Estado: Tendencia bajista fuerte
+2025-02-25 09:43:56,784 | INFO | ALERTA DE BUY | Símbolo: NVDA | Precio: $102.13 | ADX: 50.06 | DI+: 47.24 | DI-: 43.88 | Estado: Tendencia alcista fuerte
+2025-02-25 09:44:19,156 | INFO | Simulación detenida
+2025-02-25 09:49:14,262 | INFO | Simulación detenida
+2025-02-25 22:08:22,571 | WARNING | Intento de inicio con mercado cerrado: Mercado cerrado (post-market)
+2025-02-25 22:08:22,721 | INFO | Simulación detenida
+2025-02-25 22:08:34,542 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 8
+2025-02-25 22:08:35,560 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 9
+2025-02-25 22:08:36,571 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 10
+2025-02-25 22:08:37,591 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 11
+2025-02-25 22:08:38,608 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 12
+2025-02-25 22:08:39,617 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 13
+2025-02-25 22:08:40,624 | ERROR | Error en simulación: index 14 is out of bounds for axis 0 with size 14
+2025-02-25 22:08:41,643 | INFO | ALERTA DE BUY | Símbolo: NVDA | Precio: $226.66 | ADX: 58.27 | DI+: 76.88 | DI-: 5.93 | Estado: Tendencia alcista fuerte
+2025-02-25 22:09:59,442 | INFO | ALERTA DE SELL | Símbolo: NVDA | Precio: $1139.20 | ADX: 59.53 | DI+: 41.26 | DI-: 45.35 | Estado: Tendencia bajista fuerte
+2025-02-25 22:10:32,117 | INFO | Simulación detenida

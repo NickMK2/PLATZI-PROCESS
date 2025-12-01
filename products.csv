@@ -1,0 +1,23 @@
+name,price,quantity,brand,category,entry_date
+Laptop,1200,4,BrandName,Electronics,05/01/2024
+Mouse,45,120,TechGear,Accessories,10/02/2024
+Keyboard,70,60,KeyMasters,Accessories,12/02/2024
+Monitor,320,15,ViewSharp,Electronics,01/03/2024
+Headphones,150,25,SoundMax,Audio,15/03/2024
+Webcam,85,40,ClearView,Electronics,20/03/2024
+Printer,200,10,PrintWell,Office,01/04/2024
+Tablet,400,30,TabZone,Electronics,05/04/2024
+Smartphone,800,20,PhonePro,Electronics,10/04/2024
+External Hard Drive,100,50,StoreMore,Storage,01/05/2024
+Speaker,90,35,SoundMax,Audio,05/05/2024
+Microphone,110,18,VoiceClear,Audio,10/05/2024
+Charger,25,150,PowerPlus,Accessories,15/05/2024
+USB Cable,10,200,CableWorld,Accessories,20/05/2024
+Power Bank,60,80,ChargeIt,Accessories,25/05/2024
+Router,150,25,NetSpeed,Networking,01/06/2024
+Mouse Pad,20,100,ComfortZone,Accessories,05/06/2024
+Laptop Stand,55,45,ErgoLift,Accessories,10/06/2024
+Projector,550,8,ProView,Electronics,15/06/2024
+Graphics Tablet,250,12,ArtMaster,Electronics,20/06/2024
+Wireless Charger,75,100,ChargerMaster,Accessories,01/07/2024
+S21 Ultra,2000000,1,Samsung,Tecnologia,02/10/2024,2000000
