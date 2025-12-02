@@ -1,0 +1,10 @@
+# Python Environments & Dependencies
+venv/
+env/
+# Ignorar el entorno virtual específico de scraping
+scraping/scraping_uno/
+
+# Cache y archivos compilados
+__pycache__/
+*.pyc
+*.pyo
