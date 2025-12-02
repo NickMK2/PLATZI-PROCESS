@@ -1,0 +1,3 @@
+Footballers: Ronaldo, Messi, Hazard, Kante, Okocha
+Finished writing to file.
+Check footballers.txt for the output.
